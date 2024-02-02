@@ -1,0 +1,42 @@
+*{
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box;
+}
+.App{
+  border: 1px solid lightgray;
+  display: inline-block;
+  color:  white;
+  background-color: black;
+  padding:30px 100px !important;
+  text-align: center;
+  margin: 50px 0 0 560px !important;
+}
+input{
+  background-color: black;
+  color: white;
+  margin-bottom: 10px !important;
+  margin-left: 8px !important;
+}
+.title{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+  color: aqua;
+}
+.btn{
+  margin-bottom: 10px !important;
+  margin-left: 20px !important;
+}
+.btn1{
+  padding:2px 8px !important;
+  margin: 2px !important;
+  border: 1px solid gray;
+  
+}
+.btn1:hover{
+  background-color: gray;
+}
+.ans_p{
+  padding:0 28px !important;
+  text-align: center;
+}
